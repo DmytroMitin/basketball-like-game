@@ -1,0 +1,5 @@
+{
+  "name": "React Basketball Game",
+  "description": "A 2D single-player basketball game where users can control the angle and power of their shot to score baskets. Built with React, TypeScript, and Tailwind CSS, featuring a simple physics engine.",
+  "requestFramePermissions": []
+}
